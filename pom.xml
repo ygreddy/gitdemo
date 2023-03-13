@@ -22,7 +22,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>Maven-snapshot</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
+			<url>http://localhost:8080/nexus/content/repositories/Maven-snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
